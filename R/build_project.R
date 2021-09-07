@@ -20,6 +20,6 @@ build_project <- function(type = "analysis",
     dir.create(path = here::here("scripts"))
 
     # docs
-    dir.create(path = here::here("scripts"))
+    dir.create(path = here::here("docs"))
   }
 }
